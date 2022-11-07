@@ -1,0 +1,38 @@
+body{
+    background-color: honeydew;
+    color:coral;
+    font-family:  cursive;
+}
+.header_div
+{
+    background-color: rgb(213, 241, 213);
+    color:chocolate;
+}
+
+.header_div p{
+    font-family: cursive;
+    color:coral;
+    letter-spacing: 2px;
+    font-size: 11px;
+    font-weight: bold;
+}
+
+.main_div button{
+    font-family: cursive;
+    margin-top: 25px;
+    width: 130px;
+    font-weight: lighter;
+    letter-spacing: 4px;
+}
+
+.crfooter{
+position:fixed;
+color: coral;
+bottom: 0;
+width: 100%;
+font-size: 18px;
+background-color:mintcream;
+line-height: 3;
+text-align: center;
+text-shadow: 4px 4px 4px rgb(149, 134, 134);
+}
